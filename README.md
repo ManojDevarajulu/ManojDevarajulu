@@ -17,7 +17,7 @@ I engineer AI infrastructure, developer tools, and intelligent workflows with a 
 
 ### 🚀 What I've Built & Shipped
 
-*   **[Sentieal — Developer Intelligence Platform](https://sentinel-teal-two.vercel.app/)**
+*   **[Sentinel — Developer Intelligence Platform](https://sentinel-teal-two.vercel.app/)**
     *   A developer infrastructure SaaS designed to improve developer cognition in large codebases. It maps out architecture, system dependencies, and workflows to calculate the blast radius of code changes.
     *   **Stack:** Next.js, FastAPI, Supabase, AI Orchestration
 *   **[Zen AI — Healthcare Automation Platform](https://zenai-fax-referral-extractor.onrender.com/)**
@@ -64,7 +64,7 @@ I engineer AI infrastructure, developer tools, and intelligent workflows with a 
 
 I write and document my journey on the future of technology, multi-agent architecture reliability, and structural design decisions. I value connecting with other builders, founders, engineers, and inherently curious minds.
 
-*   **Portfolio Landing Page:** [manojdevaraj.dev](https://manojdevaraj-portfoliov1.vercel.app/)
+*   **Portfolio Landing Page:** [manojdevaraj.cc](https://manojdevaraj-portfoliov1.vercel.app/)
 *   **Professional Ledger:** [linkedin.com/in/manojd7](https://www.linkedin.com/in/manojd7/)
 *   **Digital Garden / Thoughts:** [@ManojDevarajulu](https://x.com/ManojDevarajulu)
 
