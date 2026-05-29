@@ -50,11 +50,6 @@ I engineer AI infrastructure, developer tools, and intelligent workflows with a 
 #### Contribution Rhythm
 ![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojDevarajulu&theme=github-dark)
 
-#### Ecosystem Breakdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojDevarajulu&show_icons=true&theme=dark" alt="Manoj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDevarajulu&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
 
 </div>
 
