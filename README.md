@@ -1,52 +1,75 @@
-# Hi there! I'm Manoj Devaraj 👋
+<div align="center">
 
-I am an **AI Engineer and Systems Builder** based in Chennai, India. I specialize in engineering production-grade AI infrastructure, developer tools, and automated, compliant document workflows. I build with a systems-first mindset, focusing on reducing complexity and ensuring architectural reliability.
+# Hi, I'm Manoj D 👋
+
+### AI Engineer | Systems Builder | Backend Architect
+
+I engineer AI infrastructure, developer tools, and intelligent workflows with a systems-first mindset. I am deeply driven by identifying structural bottlenecks, reducing complexity, and building tools that help people make better decisions.
 
 ---
 
-### 🚀 What I've Built
+</div>
+
+### 👁️ Core Philosophy: Systems Over Features
+> *"I naturally think in systems rather than isolated features. Most of the problems that attract me involve improving visibility, orchestrating workflows, understanding hidden dependencies, and building highly reliable digital infrastructure."*
+
+---
+
+### 🚀 What I've Built & Shipped
 
 *   **[Sentieal — Developer Intelligence Platform](https://sentinel-teal-two.vercel.app/)**
-    *   *AI-powered code visualization tool that models system architecture, traces failures, detects affected modules, and calculates the blast radius of pull requests to preserve mental context in large codebases.*
+    *   A developer infrastructure SaaS designed to improve developer cognition in large codebases. It maps out architecture, system dependencies, and workflows to calculate the blast radius of code changes.
     *   **Stack:** Next.js, FastAPI, Supabase, AI Orchestration
-*   **[Zen AI — Healthcare Automation System](https://zenai-fax-referral-extractor.onrender.com/)**
-    *   *Production automation platform extracting referral data, handling PHI classification, and ensuring HIPAA-compliant storage to streamline enterprise document review pipelines.*
+*   **[Zen AI — Healthcare Automation Platform](https://zenai-fax-referral-extractor.onrender.com/)**
+    *   An enterprise-scale system built to process complex healthcare referral documents using advanced OCR pipelines and LLM extraction workflows, balancing high security with production reliability.
     *   **Stack:** GPT-4o, Tesseract OCR, FastAPI, Azure
-*   **[Your Rights — Civic Infrastructure Platform](https://your-rights.vercel.app/)**
-    *   *A civic escalation portal designed to bridge citizens and municipal authorities, pairing the open nature of social platforms with complete anonymity for safe grievance reporting.*
+*   **[Urimai (Your Rights) — Civic Infrastructure Portal](https://your-rights.vercel.app/)**
+    *   A public escalation platform exploring coordination systems, governance, and transparent information flows. It bridges communication friction between citizens and authorities for safe, anonymous issue reporting.
     *   **Stack:** Coordination Systems, Public Infrastructure, Civic Tech
-*   **[En Passant — Territory Chess Ecosystem](https://github.com/ManojD37)**
-    *   *A real-time multiplayer territory domination game combining chess strategy with geolocation mechanics.*
+*   **[En Passant — Territory Chess Ecosystem](https://github.com/ManojDevarajulu)**
+    *   An exploration into multiplayer game systems, persistent world mechanics, and large-scale coordination, combining classic chess strategy with real-world geolocation.
     *   **Stack:** Game Systems, Geolocation, Multiplayer, Real-time
 
 ---
 
-### 🛠️ Tech Stack & Core Tools
+### 🛠️ Tech Stack & Specialized Ecosystem
 
-| Category | Technologies |
+| Domain | Tools & Technologies |
 | :--- | :--- |
-| **AI / Orchestration** | GPT-4o, LangChain, Tesseract OCR Pipelines, Intelligent Classification |
-| **Backend** | Python, FastAPI, Supabase |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Infrastructure** | Azure, Docker, CI/CD, Observability Pipelines |
+| **AI & Workflow Automation** | GPT-4o, LangChain, Tesseract OCR Pipelines, Intelligent Document Processing |
+| **Backend & Services** | Python, FastAPI, Supabase, Secure Data Routing |
+| **Frontend Engineering** | React, Next.js, TypeScript, Tailwind CSS |
+| **Infrastructure & Clouds** | Azure, Docker, CI/CD Pipelines, System Observability |
 
 ---
 
-### 📈 Activity & Core Stats
+### 📈 Metrics & Core Code Activity
 
-#### GitHub Contributions
-![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojD37&theme=github-dark)
+<div align="center">
 
-#### Platform Overview
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojD37&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojD37&layout=compact&theme=dark)
+#### Contribution Rhythm
+![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojDevarajulu&theme=github-dark)
+
+#### Ecosystem Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojDevarajulu&show_icons=true&theme=dark" alt="Manoj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDevarajulu&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+</div>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Building in Public & Connecting
 
-*   **Portfolio:** [manojdevaraj.dev](https://manojdevaraj-portfoliov1.vercel.app/)
-*   **LinkedIn:** [linkedin.com/in/manojd7](https://www.linkedin.com/in/manojd7/)
-*   **Twitter / X:** [@ManojDevarajulu](https://x.com/ManojDevarajulu)
+I write and document my journey on the future of technology, multi-agent architecture reliability, and structural design decisions. I value connecting with other builders, founders, engineers, and inherently curious minds.
 
-*Ask me about: LLM orchestration patterns, multi-agent reliability, building observable developer tools, or scaling startup infrastructure.*
+*   **Portfolio Landing Page:** [manojdevaraj.dev](https://manojdevaraj-portfoliov1.vercel.app/)
+*   **Professional Ledger:** [linkedin.com/in/manojd7](https://www.linkedin.com/in/manojd7/)
+*   **Digital Garden / Thoughts:** [@ManojDevarajulu](https://x.com/ManojDevarajulu)
+
+<br>
+
+<div align="center">
+  <i>"Technology should reduce complexity, not add to it. Let's make complex systems easier to understand."</i>
+</div>
