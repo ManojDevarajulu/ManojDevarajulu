@@ -1,250 +1,46 @@
-<div align="center">
+# Manoj D
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manoj%20D&fontSize=75&fontAlignY=38&animation=fadeIn"/>
+**Applied AI & Systems Engineer** • Building measured, verifiable AI systems and developer infrastructure.
 
-# AI Engineer • Product Builder • Community Driven
-
-### Exploring AI Systems, Developer Infrastructure & Intelligent Workflows
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Building+AI+systems+for+real-world+bottlenecks;Developer+Infrastructure+and+System+Design;Workflow+Automation+and+Architecture+Thinking;Building+Products+and+Learning+in+Public;Connecting+Builders+and+Growing+Developer+Communities" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/manojd7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ManojDevarajulu">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://manojdevaraj-portfoliov1.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ManojDevarajulu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/manojd7/) • [Portfolio](https://manojdevaraj-portfoliov1.vercel.app) • [X (Twitter)](https://x.com/ManojDevarajulu) • [GitHub](https://github.com/ManojDevarajulu)
 
 ---
 
-## About Me
+### Focus & Engineering Principles
 
-```txt
-AI Engineer based in Chennai 🇮🇳
+I design and build autonomous agent pipelines, document intelligence engines, and developer infrastructure focused on **reliability, deterministic verification, and measurable performance**.
 
-→ Interested in AI Systems
-→ Developer Infrastructure
-→ Product Building
-→ Workflow Orchestration
-→ System Design
-→ Automation
-→ Community Building
-
-I enjoy understanding how complex systems work,
-how they scale, coordinate, evolve and break.
-
-Most of the things I build revolve around
-reducing complexity, improving visibility,
-understanding dependencies and solving
-real-world bottlenecks.
-```
+* **Deterministic Verification over Blind Trust:** Pairing probabilistic LLM generation with sandboxed formal validators (Python AST execution, Luhn check algorithms, clinical taxonomy constraints) to eliminate mathematical and logical hallucinations.
+* **Empirical Benchmarks over Intuition:** Evaluating retrieval and agent architectures against established industry benchmarks (FinanceBench, FHIR R4 conformance, RRF ablation studies).
+* **Zero-Bloat Architecture:** Prioritizing in-memory algorithms, pure Python AST traversal, and lightweight data structures before introducing heavy distributed database daemons.
 
 ---
 
-## Current Focus
+### Featured Systems
 
-<div align="center">
+#### [Ledger AI](https://github.com/ManojDevarajulu/Ledger-AI)
+*Audit-Grade Financial RAG Engine & Deterministic SEC 10-K Analysis Terminal*
+- Eliminates financial hallucinations across corporate filings by pairing table-aware structural chunking with a deterministic Python AST math engine (`decimal.Decimal`).
+- **Live Ingestion:** Directly streams and parses real Form 10-Ks from SEC EDGAR over HTTPS with fair-access rate limiting and content-addressable disk caching.
+- **Empirical Results:** Increases Answer Accuracy from **5.0% to 90.0%** and Evidence Recall@1 to **90.0%** across 20 FinanceBench corporate disclosures.
+- **Stack:** Python, FastAPI, NumPy, Rank-BM25, SEC EDGAR API, Python AST, Vanilla JS/CSS.
 
-| AI Systems | Infrastructure | Product Building |
-|------------|---------------|------------------|
-| Multi-Agent Workflows | Developer Tooling | SaaS Products |
-| LLM Orchestration | System Design | Product Strategy |
-| AI Automation | Architecture Visibility | Startup Ecosystems |
-| Intelligent Workflows | Workflow Reliability | Community Building |
+#### [Intake AI](https://github.com/ManojDevarajulu/Intake-AI) *(Active)*
+*Calibrated Clinical Document Intelligence Engine for Healthcare Intake*
+- Automated clinical referral extraction engine for noisy, degraded medical faxes with distribution-free risk control (conformal prediction).
+- Enforces strict deterministic invariants: CMS 10-digit NPI Luhn verification, ICD-10-CM clinical code taxonomy lookup, and chronological consistency.
+- Automatically accepts high-confidence records into validated **HL7 FHIR R4 US Core** bundles; routes ambiguous fields to an interactive clinician review queue with coordinate bounding-box overlays.
+- **Stack:** Python, FastAPI, Pydantic v2, Conformal Prediction, HL7 FHIR R4, Synthetic Clinical Generation.
 
-</div>
-
----
-
-# Products & Projects
-
-## Sentinel
-
-Developer Infrastructure SaaS focused on improving developer cognition inside large codebases.
-
-```txt
-Architecture Visibility
-Dependency Mapping
-Workflow Understanding
-Code Impact Analysis
-Blast Radius Detection
-```
-
-### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,fastapi,supabase,ts" />
-</p>
-
-🔗 https://sentinel-teal-two.vercel.app/
+#### [Sentinel](https://sentinel-teal-two.vercel.app/)
+*Developer Infrastructure & Codebase Dependency Visualization*
+- Code intelligence engine providing dependency graphs, blast-radius detection, and architectural impact analysis for large-scale software repositories.
+- **Stack:** Next.js, TypeScript, FastAPI, Supabase.
 
 ---
 
-## Zen AI
+### Technical Toolkit
 
-Enterprise healthcare automation system built for intelligent referral processing using OCR pipelines and LLM workflows.
-
-```txt
-Document Processing
-Referral Extraction
-Healthcare Automation
-Structured Data Pipelines
-Production AI Workflows
-```
-
-### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,azure" />
-</p>
-
-🔗 https://zenai-fax-referral-extractor.onrender.com/
-
----
-
-## Urimai (Your Rights)
-
-Civic infrastructure project focused on transparency, governance coordination and issue escalation systems.
-
-```txt
-Citizen Reporting
-Public Visibility
-Issue Escalation
-Coordination Systems
-Governance Communication
-```
-
-🔗 https://your-rights.vercel.app/
-
----
-
-## En Passant
-
-Experimental territory-based chess ecosystem combining strategy, multiplayer interaction and geolocation systems.
-
-```txt
-Persistent Worlds
-Competitive Strategy
-Territory Control
-Multiplayer Systems
-Ranking Ecosystems
-```
-
-🔗 https://github.com/ManojDevarajulu
-
----
-
-# Tech Stack
-
-### AI & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
-</p>
-
-### Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,docker,postgres,azure,git" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,linux" />
-</p>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojDevarajulu&theme=github-dark&hide_border=true&area=true"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManojDevarajulu&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDevarajulu&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# Building In Public
-
-I enjoy sharing thoughts around:
-
-- AI Systems
-- Developer Infrastructure
-- Product Building
-- System Design
-- Engineering Observations
-- Future Technology
-- Startup Ecosystems
-
-My goal is to learn publicly, connect with ambitious builders, and contribute meaningful ideas around technology and systems thinking.
-
----
-
-# Philosophy
-
-> Technology should reduce complexity, not add to it.
-
-I enjoy identifying bottlenecks, understanding systems, and building products that make complex workflows easier to understand, operate and improve.
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/manojd7">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ManojDevarajulu">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://manojdevaraj-portfoliov1.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building Systems • Learning Publicly • Connecting Builders
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ManojDevarajulu&style=flat-square&color=blueviolet"/>
-
-</div>
+* **AI & Retrieval:** Retrieval-Augmented Generation (RAG), Hybrid Search (BM25 + Dense RRF), Neuro-Symbolic Agent Architectures, Conformal Risk Routing, Abstract Syntax Trees (AST).
+* **Backend & Systems:** Python 3.12+, FastAPI, Pydantic v2, PostgreSQL, NumPy, REST APIs, Asynchronous I/O.
+* **Domain Standards & Interoperability:** SEC EDGAR (HTML/XBRL), HL7 FHIR R4, JSON Schema, Docker, Git.
