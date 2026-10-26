@@ -25,7 +25,7 @@ I design and build autonomous agent pipelines, document intelligence engines, an
 - **Empirical Results:** Increases Answer Accuracy from **5.0% to 90.0%** and Evidence Recall@1 to **90.0%** across 20 FinanceBench corporate disclosures.
 - **Stack:** Python, FastAPI, NumPy, Rank-BM25, SEC EDGAR API, Python AST, Vanilla JS/CSS.
 
-#### [Intake AI](https://github.com/ManojDevarajulu/Intake-AI) *(Active)*
+#### [Intake AI](https://github.com/ManojDevarajulu/IntakeAI) *(Active)*
 *Calibrated Clinical Document Intelligence Engine for Healthcare Intake*
 - Automated clinical referral extraction engine for noisy, degraded medical faxes with distribution-free risk control (conformal prediction).
 - Enforces strict deterministic invariants: CMS 10-digit NPI Luhn verification, ICD-10-CM clinical code taxonomy lookup, and chronological consistency.
