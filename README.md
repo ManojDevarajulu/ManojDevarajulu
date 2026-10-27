@@ -2,7 +2,7 @@
 
 **Applied AI & Systems Engineer** • Building measured, verifiable AI systems and developer infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/manojd7/) • [Portfolio](https://manojdevarajulu.cc) • [X (Twitter)](https://x.com/ManojDevarajulu) • [GitHub](https://github.com/ManojDevarajulu)
+[LinkedIn](https://www.linkedin.com/in/manojdevarajulu/) • [Portfolio](https://manojdevarajulu.cc) • [X (Twitter)](https://x.com/ManojDevarajulu) • [GitHub](https://github.com/ManojDevarajulu)
 
 ---
 
