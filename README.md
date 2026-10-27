@@ -21,9 +21,6 @@ I design and build autonomous agent pipelines, document intelligence engines, an
 * **[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)** (35k+ ⭐)
   - [PR #6738](https://github.com/Mintplex-Labs/anything-llm/pull/6738) *(Merged)*: Resolved prompt compressor crash on skipped history records during conversion.
   - [PR #6726](https://github.com/Mintplex-Labs/anything-llm/pull/6726) *(Merged)*: Added token limit warning handling for LLM streaming responses.
-* **[pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF)** (11k+ ⭐)
-  - [PR #5210](https://github.com/pymupdf/PyMuPDF/pull/5210): Fixed table extraction rect clipping under `lines_strict`.
-  - [PR #5209](https://github.com/pymupdf/PyMuPDF/pull/5209): Preserved zero-width characters and ligatures during table cell extraction.
 
 ---
 
