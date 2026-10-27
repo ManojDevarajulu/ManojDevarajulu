@@ -47,10 +47,12 @@ I design and build autonomous agent pipelines, document intelligence engines, an
 - **Empirical Results:** Tested across 1,000 deterministic execution seeds; hardened runtime achieved 0 invariant violations vs. 747 violations in naive unhardened agent loops.
 - **Stack:** Python, Abstract Syntax Trees (AST), Deterministic Event Simulator, React Trace Viewer.
 
-#### [Sentinel](https://sentinel-teal-two.vercel.app/) *(Production / Closed Source)*
-*Developer Infrastructure & Codebase Dependency Visualization*
-- Code intelligence engine providing dependency graphs, blast-radius detection, and architectural impact analysis for large-scale software repositories.
-- **Stack:** Next.js, TypeScript, FastAPI, Supabase.
+#### [Sentinel](https://github.com/ManojDevarajulu/Sentinel)
+*Codebase AST Visualizer & Native Claude Code Blast-Radius Skill*
+- Static code intelligence engine and native Claude Code Agent Skill mapping multi-language codebases into deterministic dependency graphs with zero cloud daemons or database setup.
+- **Blast-Radius Recall:** Traces multi-hop upstream cascading impact in < 50ms via in-memory reverse-BFS, flagging CRITICAL, WARNING, and SAFE risk tiers.
+- **Archify-Grade Visualizer:** Generates standalone single-file interactive SVG visualizers with glowing blast-radius paths and 1-click Mermaid export.
+- **Stack:** Python 3.10+, AST Parsing, Directed Graph Engine, Reverse BFS, Claude Code Skill.
 
 ---
 
